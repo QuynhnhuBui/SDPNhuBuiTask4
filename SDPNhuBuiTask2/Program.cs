@@ -15,8 +15,11 @@ namespace SDPNhuBuiTask2
             Console.WriteLine("This is master branch");
             Console.WriteLine("Socond commit");
 
+            Console.WriteLine("This is feature A");
+            Console.WriteLine("This is  FirstBranch");
+            Console.WriteLine("Socond commit");
 
-           
+
         }
     }
 }
